@@ -1,7 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2025-12-31T18:55:04.994019
+COMMENT:Generated at 2026-01-01T04:17:33.835544
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20260103T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260102T211500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20260102131500-0ca57ba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20260103T010000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260102T200000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20260102120000-abd22f38
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
 DTEND:20260119T010000Z
