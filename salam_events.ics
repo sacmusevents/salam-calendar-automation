@@ -1,7 +1,79 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-01-25T18:28:04.741756
+COMMENT:Generated at 2026-01-26T01:49:41.595511
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20260131T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260130T211500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20260130131500-0ca57ba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260223T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260222T180000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260222100000-0912e902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nMasjid Decorating | Saturday\, February 14th | 11 am\nWe will have our Ramadan Masjid Decorating day. This is a great volunteer opportunity to beautify our masjid and make it more welcoming and inviting for everyone who visits during Ramadan. We’ll decorate various areas with colorful banners\, artwork\, and other decorative elements. We welcome your creativity and ideas for how we can make our masjid look even more beautiful.\nThe post Ramadan Masjid Decorating appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/ramadan-masjid-decorating-26/
+DTEND:20260215T010000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260214T190000Z
+SUMMARY:Ramadan Masjid Decorating
+UID:20260214110000-b7cf8cbb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nThird Saturday of the month | 9 am\nA community Food Drive in collaboration with ICNA\, on the third Saturday of the month at 9 AM at SALAM’s parking lot! We encourage everyone to take advantage of this resource and help spread the word to those who may benefit from it.\n\nThe post ICNA Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/icna-food-drive/
+DTEND:20260222T010000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260221T170000Z
+SUMMARY:ICNA Food Drive
+UID:20260221090000-ba6b1468
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260202T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260201T180000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260201100000-0912e902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20260131T010000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260130T200000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20260130120000-abd22f38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260216T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260215T180000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260215100000-0912e902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nFirst Sunday of the Month\nJoin us for a special community food drive at ARC Stadium Parking organized by Al-Misbaah to support those in need!\nVolunteers Needed! We need your help managing this event. Volunteers are needed to help set up\, distribute food\, and assist families. This is a great opportunity to give back to the community and make a difference.\nLet’s come together to support our neighbors in need.\nThe post Al-Misbaah Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/food-drive-monthly/
+DTEND:20260202T010000Z
+LOCATION:American River College
+DTSTART:20260201T180000Z
+SUMMARY:Al-Misbaah Food Drive
+UID:20260201100000-550f4719
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260209T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260208T180000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260208100000-0912e902
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
 DTEND:20260124T010000Z
