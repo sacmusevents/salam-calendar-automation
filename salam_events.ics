@@ -1,7 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-02-15T18:34:43.065173
+COMMENT:Generated at 2026-02-16T02:02:50.952730
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20260221T010000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260220T200000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20260220120000-abd22f38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20260221T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260220T211500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20260220131500-0ca57ba0
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
 DTEND:20260214T010000Z
