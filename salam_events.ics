@@ -1,7 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-02-27T18:40:34.815602
+COMMENT:Generated at 2026-02-28T01:47:24.158626
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nFirst Sunday of the Month\nJoin us for a special community food drive at ARC Stadium Parking organized by Al-Misbaah to support those in need!\nVolunteers Needed! We need your help managing this event. Volunteers are needed to help set up\, distribute food\, and assist families. This is a great opportunity to give back to the community and make a difference.\nLet’s come together to support our neighbors in need.\nThe post Al-Misbaah Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/food-drive-monthly/
+DTEND:20260302T010000Z
+LOCATION:American River College
+DTSTART:20260301T180000Z
+SUMMARY:Al-Misbaah Food Drive
+UID:20260301100000-550f4719
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260302T010000Z
+LOCATION:SALAM Community Center
+DTSTART:20260301T180000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260301100000-0912e902
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nAll are welcome\nConverts Iftar\nThis Ramadan\, let’s gather around the table for a night filled with faith\, reflection\, and community.\nWednesday\, February 25\, 2026 | 5 pm – 7 pm\nJoin us for The Mercy of Ramadan with Sr. Helena Madera-Silmi.\nWhether you’re new to Ramadan\, returning for a fresh start\, or simply looking for a place to feel at home\, this evening is for you. Let’s break our fast together\, reflect together\, and leave feeling closer to Allah and to one another. Our Converts Iftar is a special part of Ramadan at SALAM\, and we would love for you to be part of it.\nSALAM Community Center\n4541 College Oak Dr\, Sacramento\, CA 95841\nThe post Converts Iftar appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/converts-iftar/
 DTEND:20260227T010000Z
