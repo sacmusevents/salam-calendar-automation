@@ -1,7 +1,31 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-03-06T18:42:27.260045
+COMMENT:Generated at 2026-03-07T01:51:33.482300
+BEGIN:VEVENT
+DESCRIPTION:\nAges 18+\nSisters Qiyam Night\nThis Ramadan\, let’s gather for a night filled with worship\, reflection\, and sisterhood. Let’s step away from the noise of everyday life and focus on what truly matters: connecting with Allah\, diving into the Quran\, and sharing meaningful moments with one another.\nWhether you’re here to deepen your faith\, find peace\, or simply be surrounded by sisters on the same journey\, this night is for you. Let’s come together\, lift our hearts in prayer\, and leave feeling renewed and closer to Him. Can’t wait to see you there!\nSaturday\, March 7\, 2026 | 10:30 pm – Fajr\nSALAM Islamic Center\n4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Sisters Qiyam Night appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/sisters-qiyam-26/
+DTEND:20260309T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260308T063000Z
+SUMMARY:Sisters Qiyam Night
+UID:20260307223000-c682b9a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260309T000000Z
+LOCATION:SALAM Community Center
+DTSTART:20260308T170000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260308100000-0912e902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nThis is a memorization-based competition. Participants must:\nMemorize the assigned surah(s) for their level (by heart)\, and\nRecite with proper tajweed to the best of their ability.\nThis competition is open to all ages and skill levels\, with limited spots per category\, so please register early.\nImportant registration notes:\nRegister for one competition level only\nYou may move up an age group\, but not down\nCash prizes will be awarded to the top three winners in each category\nCompetition Categories\nLevel 1 (Ages 5-7): Surah Al-Ghashiya (Surah 888)\nLevel 2 (Ages 8-11): Surah At-Takwir (Surah 81)\nLevel 3 (Ages 12-15): Surah Al-Hashr (Surah 59)\nLevel 4 (Ages 16-18): Surah An-Najm (Surah 53)\nLevel 5 (Ages 19+): Surah Fussilat (Surah 41)\nHafiz Level: Surahs An-Nisaa’ & Al-Anaam (Surahs 4 & 6)\nThe post Quran Competition appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/quran-26/
+DTEND:20260308T010000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260307T203000Z
+SUMMARY:Quran Competition
+UID:20260307123000-1d992de7
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
 DTEND:20260307T010000Z
