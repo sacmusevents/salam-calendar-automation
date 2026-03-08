@@ -1,7 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-03-08T02:00:31.555762
+COMMENT:Generated at 2026-03-08T06:40:35.655117
+BEGIN:VEVENT
+DESCRIPTION:\nTaraweeh Nightly\nIsha at 9:00 PM\, followed by Taraweeh\nFirst night: Tuesday\, Feb 17\nLed by Shaykh Achour El-Qaddoury\nNightly Khatira\nAfter 4 raka’ahs of Taraweeh\nLed by Br. Oussama Mokeddem\nTheme: The Kingdom of the Heart\nChildcare Every Night (Ages 3–9)\nAvailable 7:45 PM – 9:45 PM for families attending Taraweeh\nKids 10+ stay with parents\nPrefer to keep little ones with you? Parents can pray in the downstairs auditorium.\nThe post Taraweeh Prayers appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/taraweeh-prayers-26/
+DTEND:20260309T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260308T050000Z
+SUMMARY:Taraweeh Prayers
+UID:20260307210000-31357f28
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nAges 18+\nSisters Qiyam Night\nThis Ramadan\, let’s gather for a night filled with worship\, reflection\, and sisterhood. Let’s step away from the noise of everyday life and focus on what truly matters: connecting with Allah\, diving into the Quran\, and sharing meaningful moments with one another.\nWhether you’re here to deepen your faith\, find peace\, or simply be surrounded by sisters on the same journey\, this night is for you. Let’s come together\, lift our hearts in prayer\, and leave feeling renewed and closer to Him. Can’t wait to see you there!\nSaturday\, March 7\, 2026 | 10:30 pm – Fajr\nSALAM Islamic Center\n4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Sisters Qiyam Night appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/sisters-qiyam-26/
 DTEND:20260309T000000Z
