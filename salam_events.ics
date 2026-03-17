@@ -1,7 +1,87 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-03-17T02:00:55.212009
+COMMENT:Generated at 2026-03-17T07:02:10.607922
+BEGIN:VEVENT
+DESCRIPTION:\n1st Tahajjud is on Tuesday\, March 10th\, at 3:45 am.\nTahajjud\, last 10 nights\, followed by Suhoor.\nThe rewards of giving in charity during Ramadan are multiplied by 70. The reward for any righteous act during Laylat-ul-Qadr is equivalent to having performed the same act for over 83 years! Don’t miss the blessings of the last 10 nights!\nLast 10 Nights! Automate Your Donations\, and don’t miss a day!\n﻿﻿﻿\nThe post Tahajjud appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/tahajjud-26/
+DTEND:20260318T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260317T104500Z
+SUMMARY:Tahajjud
+UID:20260317034500-94acb2e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20260321T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260320T190000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20260320120000-abd22f38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nThird Saturday of the month | 9 am\nA community Food Drive in collaboration with ICNA\, on the third Saturday of the month at 9 AM at SALAM’s parking lot! We encourage everyone to take advantage of this resource and help spread the word to those who may benefit from it.\n\nThe post ICNA Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/icna-food-drive/
+DTEND:20260322T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260321T160000Z
+SUMMARY:ICNA Food Drive
+UID:20260321090000-ba6b1468
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nEid-ul-Fitr 1447 / 2026\nPrayer at SALAM\nOne Shift\n7:00 AM Takbeerat\n7:30 AM Eid Prayer & Khutbah\nKhateeb: Dr. Aly ElMashad\nSALAM Islamic Center\n4545 College Oak Dr\, Sacramento\, CA 95841\nParking at ARC\nJumu’ah at SALAM\n12:00 PM Arabic Jumu’ah\n1:15 PM English Jumu’ah\nPrayer at Cal Expo\nHosted by Sacramento Unity Eid\nFirst Shift\n7:30 AM Takbeerat\n8:30 AM Prayer & Khutbah\nSecond Shift\n9:45 AM Takbeerat\n10:30 AM Prayer & Khutbah\nEid Festival & Activities\n9:00 AM – 5:00 PM\nEid Mubarak!\nThe post Eid-ul-Fitr 2026 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/eid-ul-fitr-2026/
+DTEND:20260321T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260320T141500Z
+SUMMARY:Eid-ul-Fitr 2026
+UID:20260320071500-4349d003
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nTaraweeh Nightly\nIsha at 9:00 PM\, followed by Taraweeh\nFirst night: Tuesday\, Feb 17\nLed by Shaykh Achour El-Qaddoury\nNightly Khatira\nAfter 4 raka’ahs of Taraweeh\nLed by Br. Oussama Mokeddem\nTheme: The Kingdom of the Heart\nChildcare Every Night (Ages 3–9)\nAvailable 7:45 PM – 9:45 PM for families attending Taraweeh\nKids 10+ stay with parents\nPrefer to keep little ones with you? Parents can pray in the downstairs auditorium.\nThe post Taraweeh Prayers appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/taraweeh-prayers-26/
+DTEND:20260320T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260319T040000Z
+SUMMARY:Taraweeh Prayers
+UID:20260318210000-31357f28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n1st Tahajjud is on Tuesday\, March 10th\, at 3:45 am.\nTahajjud\, last 10 nights\, followed by Suhoor.\nThe rewards of giving in charity during Ramadan are multiplied by 70. The reward for any righteous act during Laylat-ul-Qadr is equivalent to having performed the same act for over 83 years! Don’t miss the blessings of the last 10 nights!\nLast 10 Nights! Automate Your Donations\, and don’t miss a day!\n﻿﻿﻿\nThe post Tahajjud appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/tahajjud-26/
+DTEND:20260320T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260319T104500Z
+SUMMARY:Tahajjud
+UID:20260319034500-94acb2e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20260321T000000Z
+LOCATION:SALAM Community Center
+DTSTART:20260320T201500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20260320131500-0ca57ba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nTaraweeh Nightly\nIsha at 9:00 PM\, followed by Taraweeh\nFirst night: Tuesday\, Feb 17\nLed by Shaykh Achour El-Qaddoury\nNightly Khatira\nAfter 4 raka’ahs of Taraweeh\nLed by Br. Oussama Mokeddem\nTheme: The Kingdom of the Heart\nChildcare Every Night (Ages 3–9)\nAvailable 7:45 PM – 9:45 PM for families attending Taraweeh\nKids 10+ stay with parents\nPrefer to keep little ones with you? Parents can pray in the downstairs auditorium.\nThe post Taraweeh Prayers appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/taraweeh-prayers-26/
+DTEND:20260319T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260318T040000Z
+SUMMARY:Taraweeh Prayers
+UID:20260317210000-31357f28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n1st Tahajjud is on Tuesday\, March 10th\, at 3:45 am.\nTahajjud\, last 10 nights\, followed by Suhoor.\nThe rewards of giving in charity during Ramadan are multiplied by 70. The reward for any righteous act during Laylat-ul-Qadr is equivalent to having performed the same act for over 83 years! Don’t miss the blessings of the last 10 nights!\nLast 10 Nights! Automate Your Donations\, and don’t miss a day!\n﻿﻿﻿\nThe post Tahajjud appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/tahajjud-26/
+DTEND:20260319T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260318T104500Z
+SUMMARY:Tahajjud
+UID:20260318034500-94acb2e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nTaraweeh Nightly\nIsha at 9:00 PM\, followed by Taraweeh\nFirst night: Tuesday\, Feb 17\nLed by Shaykh Achour El-Qaddoury\nNightly Khatira\nAfter 4 raka’ahs of Taraweeh\nLed by Br. Oussama Mokeddem\nTheme: The Kingdom of the Heart\nChildcare Every Night (Ages 3–9)\nAvailable 7:45 PM – 9:45 PM for families attending Taraweeh\nKids 10+ stay with parents\nPrefer to keep little ones with you? Parents can pray in the downstairs auditorium.\nThe post Taraweeh Prayers appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/taraweeh-prayers-26/
+DTEND:20260318T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260317T040000Z
+SUMMARY:Taraweeh Prayers
+UID:20260316210000-31357f28
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nTaraweeh Nightly\nIsha at 9:00 PM\, followed by Taraweeh\nFirst night: Tuesday\, Feb 17\nLed by Shaykh Achour El-Qaddoury\nNightly Khatira\nAfter 4 raka’ahs of Taraweeh\nLed by Br. Oussama Mokeddem\nTheme: The Kingdom of the Heart\nChildcare Every Night (Ages 3–9)\nAvailable 7:45 PM – 9:45 PM for families attending Taraweeh\nKids 10+ stay with parents\nPrefer to keep little ones with you? Parents can pray in the downstairs auditorium.\nThe post Taraweeh Prayers appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/taraweeh-prayers-26/
 DTEND:20260317T000000Z
