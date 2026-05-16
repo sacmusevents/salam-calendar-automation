@@ -1,7 +1,79 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-05-16T13:18:47.578900
+COMMENT:Generated at 2026-05-16T19:01:47.529554
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20260523T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260522T190000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20260522120000-abd22f38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nEid-ul-Adha Prayer 2026\nWednesday\, May 27\, 2026\nPending Saudi Arabia moon sighting\nTakbeerat: 7:00 AM\nEid Prayer: 8:00 AM\nJoin us for Eid-ul-Adha prayer at American River College Stadium\, directly across the street from SALAM Islamic Center.\nLocation: American River College Stadium\n4700 College Oak Drive\, Sacramento\, CA 95841\nPlease bring your prayer rug and come with wudu.\nStay tuned — more details coming soon!\nThe post Eid-ul-Adha Prayer 2026 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/eid-ul-adha-prayer-2026/
+DTEND:20260528T000000Z
+LOCATION:American River College
+DTSTART:20260527T140000Z
+SUMMARY:Eid-ul-Adha Prayer 2026
+UID:20260527070000-a85fa44c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nEid-ul-Adha Celebration 2026\nSaturday\, May 30\, 2026\n10 AM – 4 PM\nJoin us at SALAM Islamic Center for a joyful Eid celebration filled with family fun\, community\, food\, and festivities!\nEnjoy bounce houses\, a clown\, train rides\, vendors\, food\, sweets\, activities\, and so much more.\nLocation: SALAM Islamic Center\n4545 College Oak Dr\, Sacramento\, CA 95841\nParking: Available at ARC\nBring your family and celebrate Eid with us!\nStay tuned — more exciting details coming soon!\nThe post Eid-ul-Adha Celebration 2026 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/eid-ul-adha-celebration-2026/
+DTEND:20260531T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260530T170000Z
+SUMMARY:Eid-ul-Adha Celebration 2026
+UID:20260530100000-aeb6698b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nFirst Sunday of the Month\nJoin us for a special community food drive at ARC Stadium Parking organized by Al-Misbaah to support those in need!\nVolunteers Needed! We need your help managing this event. Volunteers are needed to help set up\, distribute food\, and assist families. This is a great opportunity to give back to the community and make a difference.\nLet’s come together to support our neighbors in need.\nThe post Al-Misbaah Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/food-drive-monthly/
+DTEND:20260608T000000Z
+LOCATION:American River College
+DTSTART:20260607T170000Z
+SUMMARY:Al-Misbaah Food Drive
+UID:20260607100000-550f4719
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n2026 Spring Semester\nPre-K thru 12th Grade\nSemester Starts | January 11\, 2026\nSemester Ends | May 17\, 2026\nSchool Hours\nSundays Core | 10:00 AM – 2:00 PM\nSALAM Islamic Center\n4541 College Dr. Sacramento\, CA 95841\nLearn more and Register\nThe post Weekend School – Spring ’26 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/salam-weekend-school/
+DTEND:20260518T000000Z
+LOCATION:SALAM Community Center
+DTSTART:20260517T170000Z
+SUMMARY:Weekend School – Spring ’26
+UID:20260517100000-0912e902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nCleaning Day | Arden Center\nSaturday\, May 23 at 10 am\nAfter months of renovations and du‘a\, we’re preparing the SALAM Arden Center for its first Jumuah.\nJoin us for a Community Cleaning Day as we come together to help get the space ready\, insha’a Allah.\n Saturday\, May 23\, 2026\n 10:00 AM – 4:00 PM\n 985 Enterprise Dr\, Sacramento\, CA 95825\nCleaning supplies\, gloves\, lunch\, and refreshments will be provided.\nLearn More\, Donate\, and Join the Updates\nThe post Community Cleaning Day appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/community-cleaning-day/
+DTEND:20260524T000000Z
+LOCATION:SALAM Arden Center
+DTSTART:20260523T170000Z
+SUMMARY:Community Cleaning Day
+UID:20260523100000-5b71ec6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nWatch Live on Youtube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20260523T000000Z
+LOCATION:SALAM Community Center
+DTSTART:20260522T201500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20260522131500-0ca57ba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nSALAM Arden Center\nFirst Jumuah | June 5\, 2026\nA soft opening.\nA long-awaited one.\nWhat was once an open gym is becoming a new home for prayer\, learning\, suhba\, and community in the heart of Sacramento.\nFor now\, the Arden Center will open for Jumuah only as Phase II continues thoughtfully in the months ahead.\n Friday\, June 5\, 2026\n English Khutbah: 1:15 PM\n 985 Enterprise Dr\, Sacramento\, CA 95825\nIf you’ve been waiting for a closer Jumuah… this is yours.\nLearn More\, Donate\, and Join the Updates\nThe post Arden Center Jumuah appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arden-center-jumuah/
+DTEND:20260606T000000Z
+LOCATION:SALAM Arden Center
+DTSTART:20260605T201500Z
+SUMMARY:Arden Center Jumuah
+UID:20260605131500-387f582e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nThird Saturday of the month | 9 am\nA community Food Drive in collaboration with ICNA\, on the third Saturday of the month at 9 AM at SALAM’s parking lot! We encourage everyone to take advantage of this resource and help spread the word to those who may benefit from it.\n\nThe post ICNA Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/icna-food-drive/
+DTEND:20260621T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20260620T160000Z
+SUMMARY:ICNA Food Drive
+UID:20260620090000-ba6b1468
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
 DTEND:20260516T000000Z
