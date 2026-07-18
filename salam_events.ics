@@ -1,7 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-07-18T13:09:41.048186
+COMMENT:Generated at 2026-07-18T19:00:42.004274
+BEGIN:VEVENT
+DESCRIPTION:\nFinal Watch Party – World Cup\nSunday\, July 19 at 12 pm\nJoin us at SALAM for the World Cup Final Watch Party!\nCome enjoy the final match together on the big screen with family\, friends\, and community.\nPlease bring finger food to share. We hope to see you there!\nThe post Final World Cup Watch Party appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/final-world-cup-watch-party/
+DTEND:20260720T000000Z
+LOCATION:SALAM Community Center
+DTSTART:20260719T190000Z
+SUMMARY:Final World Cup Watch Party
+UID:20260719120000-e35ebb5f
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
 DTEND:20260718T000000Z
