@@ -1,7 +1,71 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-10-13T22:17:36.657924
+COMMENT:Generated at 2026-10-14T03:34:09.025065
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nWatch Live on YouTube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20261017T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261016T201500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20261016131500-0ca57ba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nThis Quran Memorization Program aims to provide a structured\, supportive\, and enriching environment where memorizing the Quran is not just an educational pursuit\, but a fulfilling spiritual journey.\nQuran Memorization Program\n$80 per month\nTuesdays and Thursdays\n5 pm to 7 pm\nAge: 5+\nLearn More and Enroll in the Quran Memorization Program\nThe post Quran Memorization appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/quran-memorization/
+DTEND:20261016T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261016T000000Z
+SUMMARY:Quran Memorization
+UID:20261015170000-0cfe9c26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nThis Quran Memorization Program aims to provide a structured\, supportive\, and enriching environment where memorizing the Quran is not just an educational pursuit\, but a fulfilling spiritual journey.\nQuran Memorization Program\n$80 per month\nTuesdays and Thursdays\n5 pm to 7 pm\nAge: 5+\nLearn More and Enroll in the Quran Memorization Program\nThe post Quran Memorization appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/quran-memorization/
+DTEND:20261021T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261021T000000Z
+SUMMARY:Quran Memorization
+UID:20261020170000-0cfe9c26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20261017T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261016T190000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20261016120000-abd22f38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nIn difficult times\, faith is not something we hold on to alone. We strengthen it together.\n“Hold firmly to the rope of Allah all together\, and do not become divided.”\n—Ali ‘Imran 3:103\nThis year’s Annual Banquet\, Unshakable Faith in Difficult Times\, is about coming together to support the community\, programs\, and spaces that help keep us connected to Allah and to one another.\nSaturday\, October 17\nDoors open at 5:00 PM\nSALAM Community Center\nAdvance tickets: $35\nReserved table of eight: $350\nReserve your seats:\nsalamcenter.org/banquet\nThe post Annual Banquet 2026 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/banquet/
+DTEND:20261018T000000Z
+LOCATION:SALAM Community Center
+DTSTART:20261018T000000Z
+SUMMARY:Annual Banquet 2026
+UID:20261017170000-c65a00ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nArabic 101\nIntroduction to Arabic\nSundays | 10:30 am – Starting August 23rd\nReady to start learning Arabic?\nArabic 101 is a beginner-friendly course designed to help you build a strong foundation in Arabic reading\, writing\, and pronunciation—no prior experience required!\nRegistration for Fall 2026 is now open!\nThe post Arabic 101 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/iqra-school/introduction-to-arabic/
+DTEND:20261019T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261018T173000Z
+SUMMARY:Arabic 101
+UID:20261018103000-45abad0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nThird Saturday of the month | 9 am\nA community Food Drive in collaboration with ICNA\, on the third Saturday of the month at 9 AM at SALAM’s parking lot! We encourage everyone to take advantage of this resource and help spread the word to those who may benefit from it.\n\nThe post ICNA Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/icna-food-drive/
+DTEND:20261018T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261017T160000Z
+SUMMARY:ICNA Food Drive
+UID:20261017090000-ba6b1468
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nThis Quran Memorization Program aims to provide a structured\, supportive\, and enriching environment where memorizing the Quran is not just an educational pursuit\, but a fulfilling spiritual journey.\nQuran Memorization Program\n$80 per month\nTuesdays and Thursdays\n5 pm to 7 pm\nAge: 5+\nLearn More and Enroll in the Quran Memorization Program\nThe post Quran Memorization appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/quran-memorization/
+DTEND:20261023T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261023T000000Z
+SUMMARY:Quran Memorization
+UID:20261022170000-0cfe9c26
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nArabic 101\nIntroduction to Arabic\nSundays | 10:30 am – Starting August 23rd\nReady to start learning Arabic?\nArabic 101 is a beginner-friendly course designed to help you build a strong foundation in Arabic reading\, writing\, and pronunciation—no prior experience required!\nRegistration for Fall 2026 is now open!\nThe post Arabic 101 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/iqra-school/introduction-to-arabic/
 DTEND:20261012T000000Z
