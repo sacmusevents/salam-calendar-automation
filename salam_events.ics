@@ -1,7 +1,55 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-COMMENT:Generated at 2026-10-22T21:11:39.354071
+COMMENT:Generated at 2026-10-23T03:24:40.398465
+BEGIN:VEVENT
+DESCRIPTION:\nFood Drive\nFirst Sunday of the Month\nJoin us for a special community food drive at ARC Stadium Parking organized by Al-Misbaah to support those in need!\nVolunteers Needed! We need your help managing this event. Volunteers are needed to help set up\, distribute food\, and assist families. This is a great opportunity to give back to the community and make a difference.\nLet’s come together to support our neighbors in need.\nThe post Al-Misbaah Food Drive appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/food-drive-monthly/
+DTEND:20261102T010000Z
+LOCATION:American River College
+DTSTART:20261101T180000Z
+SUMMARY:Al-Misbaah Food Drive
+UID:20261101100000-550f4719
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nجمعة باللغة العربية – كل جمعة | 12 ظهرا\nWe invite the Arabic-speaking community to join us for a Jumuah prayer in the Arabic language.\nJoin us Every Friday | 12 pm – 12:45 pm\nWe have 2 Jumuah shifts!\n– 1st Jumuah shift | Arabic-Language | 12:00 pm\n– 2nd Jumuah shift | Regular English-Language | 1:15 pm\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nThe post Arabic-Language Jumuah – جمعة باللغة العربية appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/arabic-language-jumuah/
+DTEND:20261024T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261023T190000Z
+SUMMARY:Arabic-Language Jumuah – جمعة باللغة العربية
+UID:20261023120000-abd22f38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nThis Quran Memorization Program aims to provide a structured\, supportive\, and enriching environment where memorizing the Quran is not just an educational pursuit\, but a fulfilling spiritual journey.\nQuran Memorization Program\n$80 per month\nTuesdays and Thursdays\n5 pm to 7 pm\nAge: 5+\nLearn More and Enroll in the Quran Memorization Program\nThe post Quran Memorization appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/quran-memorization/
+DTEND:20261030T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261030T000000Z
+SUMMARY:Quran Memorization
+UID:20261029170000-0cfe9c26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nArabic 101\nIntroduction to Arabic\nSundays | 10:30 am – Starting August 23rd\nReady to start learning Arabic?\nArabic 101 is a beginner-friendly course designed to help you build a strong foundation in Arabic reading\, writing\, and pronunciation—no prior experience required!\nRegistration for Fall 2026 is now open!\nThe post Arabic 101 appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/iqra-school/introduction-to-arabic/
+DTEND:20261026T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261025T173000Z
+SUMMARY:Arabic 101
+UID:20261025103000-45abad0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nThis Quran Memorization Program aims to provide a structured\, supportive\, and enriching environment where memorizing the Quran is not just an educational pursuit\, but a fulfilling spiritual journey.\nQuran Memorization Program\n$80 per month\nTuesdays and Thursdays\n5 pm to 7 pm\nAge: 5+\nLearn More and Enroll in the Quran Memorization Program\nThe post Quran Memorization appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/quran-memorization/
+DTEND:20261028T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261028T000000Z
+SUMMARY:Quran Memorization
+UID:20261027170000-0cfe9c26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nWatch Live on YouTube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
+DTEND:20261024T000000Z
+LOCATION:SALAM Islamic Center
+DTSTART:20261023T201500Z
+SUMMARY:English Jumuah [Friday Prayer Service]
+UID:20261023131500-0ca57ba0
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nRegular Jumuah | English-Language [Friday Prayer Service]\nKhutba | 1:15 PM\nPrayer | 1:35 PM\nSALAM Islamic Center | 4545 College Oak Dr\, Sacramento\, CA 95841\nWatch Live on YouTube\nThe post English Jumuah [Friday Prayer Service] appeared first on SALAM Islamic Center.\n\n\nMore info: https://salamcenter.org/events/jumaah-friday-prayer-service/
 DTEND:20261017T000000Z
